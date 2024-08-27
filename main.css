@@ -1,0 +1,17 @@
+.inp{
+    padding: 0.5rem;
+}
+
+.active{
+    outline: none;
+    border: solid red;
+}
+
+.error{
+    display: none;
+    color: red;
+}
+
+.para{
+    display: block;
+}
